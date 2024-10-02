@@ -14,7 +14,7 @@ void inspect(char s[]) {
 char lower(char c) {
 
 
-
+ 
   
 }
 
